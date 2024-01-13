@@ -1,6 +1,3 @@
-Certainly! Here is the Markdown content for your `Readme.md` file:
-
-```markdown
 # Chat App Shell
 
 Welcome to the Chat App Shell! This repository provides the base for developing a feature-rich chat application for both Android and iOS platforms.
