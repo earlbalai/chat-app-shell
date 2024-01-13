@@ -38,7 +38,7 @@ Launch the Android emulator using Android Studio.
 ### Run the App
 
 ```bash
-npx react-native run-android
+npm run android
 ```
 
 This command will build and run the app on the connected Android emulator.
@@ -60,7 +60,7 @@ cd ..
 ### Run the App
 
 ```bash
-npx react-native run-ios
+npm run ios
 ```
 
 This command will build and run the app on the connected iOS simulator.
