@@ -68,4 +68,3 @@ This command will build and run the app on the connected iOS simulator.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
